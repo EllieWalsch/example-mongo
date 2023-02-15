@@ -13,7 +13,7 @@ const db = client.db("ShelterDB");
 // Create and use the collection called pets
 const petCollection = db.collection("pets");
 
-// Insert data into petCollection
+// Insert data into petCollection to test if it's working
 // petCollection
 //   .insertOne({
 //     name: "Fido",
